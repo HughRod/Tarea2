@@ -4,3 +4,4 @@ Desarrollo con una placa con arduino de activación de alarma con el acceso a un
 Se debe de reducir lo más posible el consumo de energía.
 
 Esquema:
+Tarea2/Diagrama Esquemático.png
